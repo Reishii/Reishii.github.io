@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://reishii.github.io/</loc>
+    <lastmod>2019-12-07T23:23:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/posts/project2/</loc>
+    <lastmod>2019-12-07T23:23:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/posts/</loc>
+    <lastmod>2019-12-07T23:23:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/posts/project1/</loc>
+    <lastmod>2019-05-09T22:09:26-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reishii.github.io/tags/</loc>
+  </url>
+  
+</urlset>

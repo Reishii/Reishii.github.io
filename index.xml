@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audie Escala</title>
+    <link>https://reishii.github.io/</link>
+    <description>Recent content on Audie Escala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Dec 2019 23:23:45 -0800</lastBuildDate><atom:link href="https://reishii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Fluffy Finds</title>
+      <link>https://reishii.github.io/posts/project2/</link>
+      <pubDate>Sat, 07 Dec 2019 23:23:45 -0800</pubDate>
+      
+      <guid>https://reishii.github.io/posts/project2/</guid>
+      <description>Project 2</description>
+    </item>
+    
+    <item>
+      <title>Project 1: GymSpace</title>
+      <link>https://reishii.github.io/posts/project1/</link>
+      <pubDate>Thu, 09 May 2019 22:09:26 -0800</pubDate>
+      
+      <guid>https://reishii.github.io/posts/project1/</guid>
+      <description>There are various fitness apps on the market. All of the applications have different approaches in solving the problem of maintaining a healthy lifestyle. Some applications go about solving this issue through having access to multiple workout routines, while others only focus on a diet tracker. Our solution for the problem of preserving a healthy lifestyle is to create a fitness social network that doesn’t solely focus on workout routines or diet.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://reishii.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reishii.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://reishii.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reishii.github.io/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/audie-escala-06aa8213a/   GitHub: https://github.com/Reishii   Personal Email: ojiescala@gmail.com   Phone #: (702)-538-1194    </description>
+    </item>
+    
+  </channel>
+</rss>
