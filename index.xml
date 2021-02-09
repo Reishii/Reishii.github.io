@@ -13,7 +13,7 @@
       <pubDate>Sat, 07 Dec 2019 23:23:45 -0800</pubDate>
       
       <guid>https://reishii.github.io/posts/project2/</guid>
-      <description>Project 2</description>
+      <description>Summary:     FluffyFinds is a tracking device that can track pets with pinpoint accuracy using GPS. Other functions of our project include: a perimeter sensor to detect if the pet enters/exits this specified range, a battery indicator to track battery life, a heat sensor to detect if the collar is on the pet, and a software application to receive notifications from the sensor and battery indicator. Some pet owners have a problem checking whether their pets are in close proximity.</description>
     </item>
     
     <item>
